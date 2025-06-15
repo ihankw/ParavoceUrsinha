@@ -73,7 +73,7 @@
 
     <div class="qr">
       <p>Compartilhe esta página com o QR Code abaixo (será ativado após publicação):</p>
-      <img src="https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=SUA_URL_AQUI" alt="QR Code">
+      <img src="https://drive.google.com/file/d/1jqoehqbaNH6-ksPerFXAJbIGIspuPK4-/view?usp=sharing
     </div>
   </div>
 
